@@ -1,0 +1,5 @@
+.nav{display:flex;gap:12px;padding:12px;background:#111;color:#fff}
+.container{padding:24px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;padding:24px}
+.card{display:block;padding:12px;background:#fff;border-radius:8px;text-decoration:none;color:#000}
+.card img{width:100%;height:140px;object-fit:cover;border-radius:6px}
